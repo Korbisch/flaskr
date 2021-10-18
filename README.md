@@ -1,4 +1,6 @@
-![alt text](https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png)
+<p align="center">
+  <img src="https://de.wikipedia.org/wiki/Flask#/media/Datei:Flask_logo.svg" alt="Flask Web Development"/>
+</p>
 
 # flaskr
 This is a small Python Flask Blog practice project
