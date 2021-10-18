@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="background-color: white;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask Web Development"/>
 </p>
 
