@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://de.wikipedia.org/wiki/Flask#/media/Datei:Flask_logo.svg" alt="Flask Web Development"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask Web Development"/>
 </p>
 
 # flaskr
